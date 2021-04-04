@@ -1,0 +1,105 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+body{
+	background-color:black;
+	background: url(../Images/imsge-index.jpg) no-repeat;
+	background-size:cover;
+	/*font-family: Arial, Helvetica, sans-serif;*/
+	font-family: 'Heebo', sans-serif;
+	font-size: 16px;
+    top: 0;
+    bottom:0;
+    width:100%;
+}
+#login img{
+    border:1px solid none;
+    padding:10px;
+    height: 90px;
+    width: 105px;
+    border-radius:70px;
+    position: relative;
+    left: 190px;
+    top: 20px;
+
+}
+#login{
+	width: 40%;
+	height: 5%;
+	margin-left:350px;
+	margin-top: 90px;
+	background-color:rgba(0, 0, 0, 0.5);
+	border-radius: 50px;
+	align-items: center;
+	color: white;
+}
+#login h1{
+	width: 80px;
+	height: 30px;
+    position: relative;
+    left: 35px;
+    padding-top: 0px;
+}
+
+
+.t-box{
+	width: 70%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px;
+	margin: 8px;
+	border-width: 0.1px;
+	position: relative;
+	left: 160px;
+	top: 30px;
+	}
+
+	.but{
+		position: relative;
+	    left: 160px;
+	    top: 35px;
+	    background:none;
+	    border:2px solid rgba(255,255,0,0.2);
+	    color: white;
+	    width: 40%;
+	    height: 7%;
+	    font-size: 18px;
+	}
+
+	.t-box input{
+		border:none;
+		outline: none;
+		background:none;
+		color: white;
+		font-size: 19px;
+
+}
+.t-box i{
+	 width: 26px;
+     float: left;
+     text-align: center;
+}
+#join{
+	position: relative;
+	top: 30px;
+	color: white;
+	left: 3%;
+}
+#join a{
+	text-decoration: none;
+	color: rgba(255,255,0,0.7);
+}
+#f-page{
+   font-family: 'Averia Serif Libre', cursive;
+   font-family: 'Heebo', sans-serif;
+   font-size: 30px;
+   position: relative;
+   top: 200px;
+   color: white;
+   text-align: center;
+  
+ }
+ #cp{
+ 	position: relative;
+ 	top: 2px;
+ 	text-align: center;
+ }
+
